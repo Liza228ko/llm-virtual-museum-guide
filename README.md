@@ -4,7 +4,7 @@ It is an interactive, 3D virtual museum showcasing the history of computing. It 
 
 ## Overview
 
-This project bridges a **Unity 3D frontend** with the **Google Gemini API**, utilizing a **FastAPI proxy server** to manage communication. VirtuWander addresses the limitations of traditional virtual tours (like limited interactivity and "one-size-fits-all" paths) by offering a context-aware, personalized, and multi-modal experience.
+This project bridges a **Unity 3D frontend** with the **Google Gemini API**, utilizing a **FastAPI proxy server** to manage communication. It addresses the limitations of traditional virtual tours (like limited interactivity and "one-size-fits-all" paths) by offering a context-aware, personalized, and multi-modal experience.
 
 The core logic is driven by a **Multi-Agent Orchestration** system consisting of:
 - **Classifier Agent:** Determines the user's intent from their query.
