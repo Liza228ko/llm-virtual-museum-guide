@@ -1,6 +1,6 @@
-# VirtuWander: A Multi-Agent AI Approach to Virtual Museum Exploration
+# A Multi-Agent AI Approach to Virtual Museum Exploration
 
-VirtuWander is an interactive, 3D virtual museum showcasing the history of computing. It features an intelligent, embodied avatar that acts as a dynamic tour guide, leading users through exhibits using natural language interaction.
+It is an interactive, 3D virtual museum showcasing the history of computing. It features an intelligent, embodied avatar that acts as a dynamic tour guide, leading users through exhibits using natural language interaction.
 
 ## Overview
 
@@ -19,7 +19,7 @@ The guide can:
 
 ## 📺 Demo
 
-Check out the project in action: [VirtuWander Demo Video](https://youtu.be/q9cnR1ttfE4)
+Check out the project in action: [Demo Video](https://youtu.be/q9cnR1ttfE4)
 
 ## Tech Stack
 
