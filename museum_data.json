@@ -1,0 +1,239 @@
+
+{
+  "artworks": [
+    {
+      "id": "exhibit_001",
+      "title": "Flash Memory",
+      "artist": "Fujio Masuoka (Toshiba)",
+      "year": "1984",
+      "description": "A non-volatile memory that can retain data even without power.",
+      "details": "Flash memory offers better resistance to shocks compared to traditional hard drives and is widely used in mobile devices.",
+      "style": "Storage"
+    },
+    {
+      "id": "exhibit_002",
+      "title": "Hard Disk Drive",
+      "artist": "IBM",
+      "year": "1973",
+      "description": "A compact, high-capacity auxiliary storage device. The modern HDD architecture was established by the IBM 3340.",
+      "details": "The company that developed the first HDD for desktop computers is now known as Seagate.",
+      "style": "Storage"
+    },
+    {
+      "id": "exhibit_003",
+      "title": "Optical Disc",
+      "artist": "David Paul Gregg & James T. Russell",
+      "year": "1965",
+      "description": "Emerged in the late 1960s as pioneers of digital format storage media, replacing analog formats.",
+      "details": "Optical discs went through four generations: CD, DVD, Blu-ray Disc (BD), and Holographic Versatile Disc (HVD).",
+      "style": "Storage"
+    },
+    {
+      "id": "exhibit_004",
+      "title": "Floppy Disk",
+      "artist": "IBM",
+      "year": "1971",
+      "description": "A once-ubiquitous storage device, with global usage exceeding 5 billion disks by the end of the 20th century.",
+      "details": "The 3.5-inch floppy disk has a capacity of 1.44MB, which can only store one to four photos from a modern mobile phone.",
+      "style": "Storage"
+    },
+    {
+      "id": "exhibit_005",
+      "title": "Removable Magnetic Disk Pack",
+      "artist": "IBM",
+      "year": "1962",
+      "description": "A removable disk pack used in RP03 disk drives with a storage capacity of 58MB.",
+      "details": "Despite being referred to as 'removable,' this portable disk still weighs ten kilograms.",
+      "style": "Storage"
+    },
+    {
+      "id": "exhibit_006",
+      "title": "Magnetic Tape",
+      "artist": "Fritz Pfleumer",
+      "year": "1935",
+      "description": "A medium for storing audio, video, and computer data.",
+      "details": "From 1980 to 2000, buying music albums on cassette tapes and renting movies from video tape rental stores was a nationwide phenomenon.",
+      "style": "Storage"
+    },
+    {
+      "id": "exhibit_007",
+      "title": "Punched Card",
+      "artist": "Herman Hollerith",
+      "year": "1880",
+      "description": "An early medium for programming, using pre-designed combinations of punches to represent each character.",
+      "details": "The company Herman Hollerith established later became today's IBM.",
+      "style": "Storage"
+    },
+    {
+      "id": "exhibit_008",
+      "title": "JUKI 1300 Card-punch Machine",
+      "artist": "JUKI Corporation",
+      "year": "1980",
+      "description": "A machine to punch computer instructions or programs onto paper cards.",
+      "details": "In the 1970s and 1980s, programming was commonly done offline using these machines.",
+      "style": "Input Device"
+    },
+    {
+      "id": "exhibit_009",
+      "title": "DEC CR-11 Card Reader",
+      "artist": "Digital Equipment Corporation (DEC)",
+      "year": "1974",
+      "description": "A card reader used to execute instructions on mainframe computers from punched cards.",
+      "details": "It was once involved in the computerized marking of the national university entrance exams in Taiwan.",
+      "style": "Input Device"
+    },
+    {
+      "id": "exhibit_010",
+      "title": "Epson LX-800 9-Pin Dot Matrix Printer",
+      "artist": "Epson",
+      "year": "1996",
+      "description": "A 9-pin dot matrix printer. These printers were among the earliest products to enter the market.",
+      "details": "Dot matrix printers use impact pins to strike against an ink ribbon, transferring the ribbon's ink onto the paper.",
+      "style": "Output Device"
+    },
+    {
+      "id": "exhibit_011",
+       "title": "2nd Generation Chinese Keyboard and Input System",
+      "artist": "TECO",
+      "year": "1973",
+      "description": "The world's first Chinese keyboard, born at NCTU.",
+      "details": "It broke down each Chinese character into several 'Chinese radicals', overcoming the challenge of searching through a vast sea of characters.",
+      "style": "Input Device"
+    },
+    {
+      "id": "exhibit_012",
+      "title": "Mouse",
+      "artist": "Douglas Engelbart (SRI)",
+      "year": "1968",
+      "description": "The world's first mouse, born at Stanford Research Institute (SRI).",
+      "details": "The original was a small wooden box with a single button that could move forward, backward, left, and right.",
+      "style": "Input Device"
+    },
+    {
+      "id": "exhibit_013",
+     "title": "iMac G3 Personal Computer",
+      "artist": "Apple Inc.",
+      "year": "1998",
+      "description": "An iconic personal computer that consolidated the screen and system unit into a single enclosure.",
+      "details": "Co-founder Steve Jobs once said that the iMac G3 was a 'computer that doesn't look like a computer!'",
+      "style": "Personal Computer"
+    },
+    {
+      "id": "exhibit_014",
+      "title": "Compaq Portable 386",
+      "artist": "Compaq Computer Corporation",
+      "year": "1987",
+      "description": "A pioneer in the field of 'portable computers', though it still weighed around ten kilograms.",
+      "details": "It was priced between $12,000 to $14,000, making it expensive and primarily purchased by laboratories.",
+      "style": "Portable Computer"
+    },
+    {
+      "id": "exhibit_015",
+      "title": "IBM PC-XT Personal Computer",
+      "artist": "IBM",
+      "year": "1983",
+      "description": "An advanced model of the IBM PC designed for enterprise use, featuring a 10MB hard drive.",
+      "details": "IBM's release of technical information (except the BIOS) led to a flourishing era of PC-compatible machines.",
+      "style": "Personal Computer"
+    },
+    {
+      "id": "exhibit_016",
+      "title": "Apple II Personal Computer",
+      "artist": "Apple Inc.",
+      "year": "1977",
+      "description": "The world's first widely popular personal computer, sold as 'home electronics'.",
+      "details": "It became the standard computer in the American education system in the 1980s.",
+      "style": "Personal Computer"
+    },
+    {
+      "id": "exhibit_017",
+      "title": "Convex C3 Mini-supercomputer",
+      "artist": "Convex Computer Corporation",
+      "year": "1991",
+      "description": "A mini-supercomputer optimized for vector processing, suitable for scientific research and engineering computations.",
+      "details": "Arranged in a 'petal shape' to accelerate data transmission. Originally served at the National Center for High-Performance Computing.",
+      "style": "Mini-supercomputer"
+    },
+    {
+      "id": "exhibit_018",
+      "title": "WANG VS90 Minicomputer",
+      "artist": "WANG Laboratories",
+      "year": "1980",
+      "description": "A minicomputer specifically designed for document and data processing.",
+      "details": "Widely used by businesses and government organizations like banks, railways, and newspapers.",
+      "style": "Minicomputer"
+    },
+    {
+      "id": "exhibit_019",
+      "title": "CDC Cyber 170/720 Mainframe computer",
+      "artist": "Control Data Corporation (CDC)",
+      "year": "1979",
+      "description": "A mainframe computer from the era of large-scale computing. It was used for the University Joint Entrance Examinations in Taiwan in 1981.",
+      "details": "The CPU of the Cyber 170 series does not have I/O instructions; it relies on peripheral controllers.",
+      "style": "Mainframe"
+    },
+    {
+      "id": "exhibit_020",
+      "title": "CDC Cyber 170/720 Mainframe computer",
+      "artist": "Control Data Corporation (CDC)",
+      "year": "1979",
+      "description": "A mainframe computer from the era of large-scale computing. It was used for the University Joint Entrance Examinations in Taiwan in 1981.",
+      "details": "The CPU of the Cyber 170 series does not have I/O instructions; it relies on peripheral controllers.",
+      "style": "Mainframe"
+    },
+    {
+      "id": "exhibit_021",
+      "title": "CDC Cyber 170/720 Mainframe computer",
+      "artist": "Control Data Corporation (CDC)",
+      "year": "1979",
+      "description": "A mainframe computer from the era of large-scale computing. It was used for the University Joint Entrance Examinations in Taiwan in 1981.",
+      "details": "The CPU of the Cyber 170 series does not have I/O instructions; it relies on peripheral controllers.",
+      "style": "Mainframe"
+    },
+    {
+      "id": "exhibit_022",
+      "title": "DEC VAX Supermini Computer",
+      "artist": "Digital Equipment Corporation (DEC)",
+      "year": "1977",
+      "description": "A 32-bit supermini-computer that supports machine language and virtual addressing.",
+      "details": "NCTU was an early adopter of the VAX series for information teaching and research.",
+      "style": "Supermini Computer"
+    },
+    {
+      "id": "exhibit_023",
+      "title": "LA30P DECwriter Terminal",
+      "artist": "Digital Equipment Corporation (DEC)",
+      "year": "1970",
+      "description": "A terminal designed to work with the PDP-11, it was a pioneer in dot matrix printing.",
+      "details": "Users would input text using a keyboard, and the machine would print the output onto paper.",
+      "style": "Terminal"
+    },
+    {
+      "id": "exhibit_024",
+      "title": "PDP-11 Minicomputer",
+      "artist": "Digital Equipment Corporation (DEC)",
+      "year": "1970",
+      "description": "A 16-bit minicomputer that was extremely popular, with over 600,000 units sold.",
+      "details": "It utilized the Unibus memory bus to replace dedicated I/O instructions, a novel concept at the time.",
+      "style": "Minicomputer"
+    },
+    {
+      "id": "exhibit_025",
+      "title": "RP03 Disk Drive",
+      "artist": "Digital Equipment Corporation (DEC)",
+      "year": "1972",
+      "description": "A removable disk drive commonly used with the PDP-10 or PDP-11 computers.",
+      "details": "Despite its large size, similar to a washing machine, it had a relatively small storage capacity of only 58MB.",
+      "style": "Storage"
+    },
+    {
+      "id": "exhibit_026",
+      "title": "PDP-10 Mainframe Computer",
+      "artist": "Digital Equipment Corporation (DEC)",
+      "year": "1966",
+      "description": "A mainframe computer that revolutionized the industry with its time-sharing system.",
+      "details": "It was the first large computer system in East Asia, purchased by NCTU in 1974.",
+      "style": "Mainframe"
+    }
+  ]
+}

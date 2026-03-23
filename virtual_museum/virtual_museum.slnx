@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Meta.Voice.Samples.TTSVoices.csproj" />
+  <Project Path="Oculus.LipSync.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Oculus.LipSync.Editor.csproj" />
+</Solution>
